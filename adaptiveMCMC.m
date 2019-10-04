@@ -1,4 +1,4 @@
-load('D:\patric\workshop_data.txt');
+load('\workshop_data.txt');
 pedigree=workshop_data;
 %y=y_a_d_e;
 line_level =pedigree(:,1);
